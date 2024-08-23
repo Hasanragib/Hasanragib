@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @Hasanragib.
+- 👋 Hi there, I’m Ragib Hasan.
 - 👀 I'm a web developer currently learning the **MERN stack** and building exciting projects.
 - 📚 Learning Journey:  
     -  I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
