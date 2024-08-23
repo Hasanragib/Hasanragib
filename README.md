@@ -1,15 +1,15 @@
 - 👋 Hi there, I’m @Hasanragib.
 - 👀 I'm a web developer currently learning the **MERN stack** and building exciting projects.
-- 📚 Learning Journey  
+- 📚 Learning Journey:  
     -  I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
-- 🚀 Technologies & Tools  
+- 🚀 Technologies & Tools:  
     -  **Languages** :JavaScript, HTML, CSS
     -  **Frameworks** : React, Express.js, Node.js 
     -  **Database** : MySQL,MongoDB  
     -  **Tools** : Git, GitHub, VS Code 
 - 🌱 I’m currently learning "Web Development" and diving deep into the "MERN stack".
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 If I can be of assistance, please feel free to contact me at :
+- 📫 If I can be of assistance, please feel free to contact me at:
     -  [Email](hragib1@gmail.com,hragib@outlook.com)
     -  [LinkedIn](linkedin.com/in/ragib-hasan-7467b32a8)
     -  [Discord](https://discord.com/users/ragibhasan__)
