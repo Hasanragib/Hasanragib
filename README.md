@@ -1,12 +1,15 @@
 - 👋 Hi there, I’m @Hasanragib.
 - 👀 I'm a web developer currently learning the **MERN stack** and building exciting projects.
 - 📚 Learning Journey  
-      I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
+     - I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
 - 🚀 Technologies & Tools  
-      **Languages** : ![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black) JavaScript, HTML, CSS  
-      **Frameworks** : React, Express.js, Node.js 
-      **Database** : MySQL,MongoDB  
-      **Tools** : Git, GitHub, VS Code 
+    -  **Languages** : ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+ JavaScript, ![HTML](https://img.shields.io/badge/Language-HTML-orange)
+HTML, ![CSS](https://img.shields.io/badge/Language-CSS-blue)
+CSS  
+    -  **Frameworks** : React, Express.js, Node.js 
+    -  **Database** : MySQL,MongoDB  
+    -  **Tools** : Git, GitHub, VS Code 
 - 🌱 I’m currently learning "Web Development" and diving deep into the "MERN stack".
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 If I can be of assistance, please feel free to contact me at :
