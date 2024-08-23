@@ -3,7 +3,7 @@
 - 📚 Learning Journey:  
     -  I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
 - 🚀 Technologies & Tools:  
-    -  **Languages** :JavaScript, HTML, CSS
+    -  **Languages** : JavaScript, HTML, CSS
     -  **Frameworks** : React, Express.js, Node.js 
     -  **Database** : MySQL,MongoDB  
     -  **Tools** : Git, GitHub, VS Code 
