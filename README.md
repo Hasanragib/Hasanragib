@@ -1,27 +1,26 @@
 - 👋 Hi there, I’m @Hasanragib.
 - 👀 I'm a web developer currently learning the **MERN stack** and building exciting projects.
 - 📚 Learning Journey  
-     - I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
+    -  I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
 - 🚀 Technologies & Tools  
-    -  **Languages** :![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E),
-![HTML](https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=E34F26),
-![CSS](https://img.shields.io/badge/CSS-000000?logo=css3&logoColor=1572B6).
-
-  
+    -  **Languages** :JavaScript, HTML, CSS
     -  **Frameworks** : React, Express.js, Node.js 
     -  **Database** : MySQL,MongoDB  
     -  **Tools** : Git, GitHub, VS Code 
 - 🌱 I’m currently learning "Web Development" and diving deep into the "MERN stack".
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 If I can be of assistance, please feel free to contact me at :
-      [Email](hragib1@gmail.com,hragib@outlook.com)
-      [LinkedIn](linkedin.com/in/ragib-hasan-7467b32a8)
-      [Discord](https://discord.com/users/ragibhasan__)
+    -  [Email](hragib1@gmail.com,hragib@outlook.com)
+    -  [LinkedIn](linkedin.com/in/ragib-hasan-7467b32a8)
+    -  [Discord](https://discord.com/users/ragibhasan__)
 - 😄 Pronoun: They/Them
 - ⚡ Fun fact:
-      "Coding: The ultimate superpower—turning caffeine into code and ideas into reality, one line at a time!".
+    -  "Coding: The ultimate superpower—turning caffeine into code and ideas into reality, one line at a time!".
 - 💬 Favorite Quote:  
-      "Simplicity is the soul of efficiency." – **Austin Freeman**
+    -  "Simplicity is the soul of efficiency." – **Austin Freeman**
+
+
+
 
 <!--- ![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black)--->
 <!---
