@@ -3,7 +3,8 @@
 - 📚 Learning Journey  
      - I'm diving deep into the MERN stack and exploring REST APIs and authentication!. 
 - 🚀 Technologies & Tools  
-    -  **Languages** : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+    -  **Languages** :![JavaScript](https://img.shields.io/badge/JavaScript-%F0%9F%92%BB-yellow?logo=javascript)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
  , ![HTML](https://img.shields.io/badge/HTML-orange)
 , ![CSS](https://img.shields.io/badge/CSS-blue)
   
