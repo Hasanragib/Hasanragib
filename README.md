@@ -15,12 +15,10 @@
          - Bootstrap- Popular CSS framework for responsive design.  
 
        - Backend:   
-         - Express.js- Fast, unopinionated, minimalist web framework for Node.js.  
-         - Node.js- JavaScript runtime built on Chrome's V8 JavaScript engine.
+         - Express - Fast, unopinionated, minimalist web framework for Node.js.  
+         - NodeJS - JavaScript runtime built on Chrome's V8 JavaScript engine.
             
-    -  **Database** : MySQL, MongoDB
-        
-    -  **Tools** : Git, GitHub, VS Code
+    -  **Database** : MongoDB, MySQL
        
 - 🌱 I’m currently learning "Web Development" and diving deep into the "MERN stack".
   
