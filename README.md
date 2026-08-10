@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Ragib Hasan.
   
-- 👀 Currently learning the **MERN stack** and building exciting projects.
+- 👀 **MERN stack Developer** and building exciting projects.
   
 - 📚 Learning Journey:  
     -  I'm diving deep into the MERN stack and exploring REST APIs and authentication!.
@@ -25,7 +25,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects.
   
 - 📫 If I can be of assistance, please feel free to contact me at:
-    -  [Email](hragib1@gmail.com,hragib@outlook.com)
+    -  [Email](hragib1@gmail.com)
     -  [LinkedIn](linkedin.com/in/ragib-hasan-7467b32a8)
     -  [Discord](https://discord.com/users/ragibhasan__)
       
